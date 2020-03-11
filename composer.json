@@ -1,8 +1,8 @@
 {
-    "name": "moresoda/existential",
+    "name": "davidhellmann/existential",
     "description": "A simple Craft 3 plugin which adds a Twig filter for checking whether a file exists",
     "type": "craft-plugin",
-    "version": "1.0.1",
+    "version": "1.1.0",
     "keywords": [
         "craft",
         "cms",
@@ -22,7 +22,7 @@
         }
     ],
     "require": {
-        "craftcms/cms": "^3.0.0-RC1"
+        "craftcms/cms": "^3.0.0"
     },
     "autoload": {
         "psr-4": {
